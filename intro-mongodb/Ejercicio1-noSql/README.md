@@ -83,7 +83,7 @@ Estos requisitos funcionales y no funcionales son esenciales para el desarrollo 
 ## Posibles mejoras y características futuras:
 
 1. **Integración con E-commerce:**
-   - Para adaptarse a las tendencias del mercado, puedes considerar la integración del sistema con una plataforma de comercio electrónico. Esto permitiría a los clientes realizar compras en línea y recoger los productos en la tienda o incluso ofrecer entregas a domicilio.
+   - Para adaptarse a las tendencias del mercado, se puede tener en consideración la integración del sistema con una plataforma de comercio electrónico. Esto permitiría a los clientes realizar compras en línea y recoger los productos en la tienda o incluso ofrecer entregas a domicilio.
 
 2. **Programa de Fidelización:**
    - Agregar un programa de fidelización que recompense a los clientes frecuentes con descuentos o puntos por compras realizadas. Esto fomentaría la lealtad del cliente y aumentaría las ventas repetidas.
@@ -110,7 +110,7 @@ Estos requisitos funcionales y no funcionales son esenciales para el desarrollo 
    - Desarrollar y mantener un conjunto sólido de pruebas automatizadas para garantizar la calidad del software y detectar problemas de manera temprana durante el desarrollo.
 
 10. **Soporte para Múltiples Idiomas y Monedas:**
-    - Si el supermercado atiende a una clientela diversa, considera la posibilidad de agregar soporte para múltiples idiomas y monedas en el sistema.
+    - Si el supermercado atiende a una clientela diversa, se puede considerar la posibilidad de agregar soporte para múltiples idiomas y monedas en el sistema.
 
 11. **Cumplimiento Normativo:**
     - Mantenerse actualizado con las regulaciones fiscales y legales cambiantes y garantizar que el sistema cumpla con todos los requisitos locales y nacionales.
@@ -123,5 +123,3 @@ Estos requisitos funcionales y no funcionales son esenciales para el desarrollo 
 
 14. **Sostenibilidad:**
     - Considerar la implementación de prácticas sostenibles, como la reducción de papel en los recibos o la gestión eficiente de residuos electrónicos.
-
-Estas sugerencias y recomendaciones pueden ayudarte a mantener y expandir un sistema de gestión de artículos y tickets en el supermercado que esté a la vanguardia de la eficiencia y la satisfacción del cliente. Es importante adaptar estas ideas según las necesidades específicas de tu negocio y las demandas cambiantes del mercado.
