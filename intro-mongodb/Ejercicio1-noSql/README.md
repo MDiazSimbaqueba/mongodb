@@ -1,7 +1,7 @@
 # Ejercicio 1 NoSQL: Caso de uso.
 
 ## Descripción general:
-### Un sistema de gestión de artículos y tickets en un supermercado es una herramienta esencial diseñada para supervisar y optimizar eficientemente todas las operaciones relacionadas con la venta de productos y la atención al cliente. Su propósito principal es mejorar la experiencia tanto de los empleados como de los clientes, así como facilitar la administración de inventario y la generación de informes. La funcionalidad general de este sistema incluye:
+Un sistema de gestión de artículos y tickets en un supermercado es una herramienta esencial diseñada para supervisar y optimizar eficientemente todas las operaciones relacionadas con la venta de productos y la atención al cliente. Su propósito principal es mejorar la experiencia tanto de los empleados como de los clientes, así como facilitar la administración de inventario y la generación de informes. La funcionalidad general de este sistema incluye:
 
 1. **Registro de artículos:** Permite ingresar y mantener un catálogo completo de productos disponibles en el supermercado, incluyendo información como nombre, código, precio, descripción y ubicación en la tienda.
 
